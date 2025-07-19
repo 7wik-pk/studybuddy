@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">StudyBuddy</string>
+    <string name="reg_header">Please register your account!</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hide_pass">Hide Password</string>
+    <string name="show_pass">Show Password</string>
+    <string name="gender">Gender</string>
+    <string name="pronouns">Pronouns</string>
+    <string name="dob">Date of Birth</string>
+    <string name="city">City</string>
+    <string name="fos">Interests</string>
+    <string name="agreement">By checking you agree to our </string>
+    <string name="and"> and </string>
+    <string name="terms">Terms of Service</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="alt_login">Login with Google</string>
+    <string name="google">Google</string>
+</resources>
