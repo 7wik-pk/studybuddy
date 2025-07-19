@@ -19,10 +19,8 @@ pi@m.com
 
 all have the password of 'herMajesty!'
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
 ## Authors and acknowledgment
+(Monash University student names and our student IDs)
 - Sathwik Kallapur: 34556834
 - Sriranjini Ambil Raghuraman: 34595007
 - Vaughan Bunt: 34882928
