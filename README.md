@@ -9,9 +9,6 @@ An application to help organise study sessions between students
 ## Installation
 Requires Android studio, meerkat, the latest release
 
-I Vaughan am to blame for this I accidentally had downloaded the latest version and didn't notice 
-the incompatibility with the older versions until work had already begun
-
 ## Usage
 on start either create a new account or use one of the emails below
 bw@m.com
