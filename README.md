@@ -10,7 +10,7 @@ An application to help organise study sessions between students
 Requires Android studio, meerkat, the latest release
 
 ## Usage
-on start either create a new account or use one of the emails below
+on start either create a new account or use one of these emails:
 bw@m.com
 sk@m.com
 ap@m.com
